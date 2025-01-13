@@ -1,5 +1,5 @@
 # debugging
-Debugging the factorial function code using chatGPT
+Debugging python functions code using chatGPT
 
 # Author
 Angel Reyes
